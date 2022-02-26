@@ -13,7 +13,26 @@ So this portal serves the purpose of connecting to those extraordinary seniors f
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 <h3 align-"left">Screenshots: </h3>
-Home Page 
+<b>Home Page</b> 
+
+![ab1](https://user-images.githubusercontent.com/64826389/155836651-7a64b5b4-3bbd-49fe-bcf2-54991f1a28e4.png)
+
+![ab2](https://user-images.githubusercontent.com/64826389/155836657-7af9c96b-6d06-4d3d-96ad-255554a65829.png)
+
+![ab3](https://user-images.githubusercontent.com/64826389/155836665-7fd6702e-39ae-453c-af6f-fd49e87912d2.png)
+
+![ab4](https://user-images.githubusercontent.com/64826389/155836668-1b13462d-b75a-471a-a650-f79a25c7bdf2.png)
+
+![ab5](https://user-images.githubusercontent.com/64826389/155836673-c83b256b-659c-4840-9108-b02e5ed9df6c.png)
+
+![ab6](https://user-images.githubusercontent.com/64826389/155836676-43c06b10-cc1c-487e-a920-7a35c9152c76.png)
+
+![ab7](https://user-images.githubusercontent.com/64826389/155836683-09ae4821-c572-4c93-9ac2-60957d2f86c4.png)
+
+![ab8](https://user-images.githubusercontent.com/64826389/155836687-b2bf9dd2-136e-4d41-94c2-f4f01a30e979.png)
+
+
+
 
 
 
