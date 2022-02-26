@@ -32,8 +32,26 @@ So this portal serves the purpose of connecting to those extraordinary seniors f
 ![ab8](https://user-images.githubusercontent.com/64826389/155836687-b2bf9dd2-136e-4d41-94c2-f4f01a30e979.png)
 
 
+<b>Resources Page</b>
+
+![res1](https://user-images.githubusercontent.com/80853109/155836867-88d99677-25db-4816-b07e-e0ba2df9d602.png)
+
+![res2](https://user-images.githubusercontent.com/80853109/155836888-f0ebc839-4e79-4ede-a2b9-78de74661c37.png)
+
+![res3](https://user-images.githubusercontent.com/80853109/155836894-0a7c4c81-02bb-4f0e-95cc-c9db6ee35771.png)
+
+![res4](https://user-images.githubusercontent.com/80853109/155836898-a75d3fdb-4708-41a5-bc91-1a25e8154dee.png)
+
+![res5](https://user-images.githubusercontent.com/80853109/155836904-8ed49b5c-b08e-4826-9185-5afe9b7e79c9.png)
+
+![res6](https://user-images.githubusercontent.com/80853109/155836913-16b6cb52-e27b-4071-804e-358e5d742e1e.png)
+
+![res7](https://user-images.githubusercontent.com/80853109/155836920-570512b7-b8e2-4e09-9933-454a731e81f3.png)
+
+![res8](https://user-images.githubusercontent.com/80853109/155836924-63057a0d-2068-46e3-88ad-0dcd9c584cf3.png)
+
+![res9](https://user-images.githubusercontent.com/80853109/155836926-8a39b296-e4e3-4432-bc70-87a7f0e376c6.png)
+
+![res10](https://user-images.githubusercontent.com/80853109/155836933-525f6e2f-8f28-4384-b19d-65ddf179eec9.png)
 
 
-
-
-Resources Page
